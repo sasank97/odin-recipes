@@ -1,0 +1,33 @@
+body {
+    background-color: #FFFAF0;
+    margin: 0;
+    padding: 0;
+  }
+  .main-heading {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+  }
+  
+  /* Subheading and Recipe Links */
+  .sub-heading,
+  .recipe-links
+  {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  /* Recipe Links */
+  .ingrediants,
+  .recipe {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    margin-left: 100px;
+  }
+
+  img {
+    height: auto;
+    width: 400px;
+  }
